@@ -9,6 +9,10 @@
   },
   "keywords": ["Seed", "Starter", "Parcel", "Parcel JS", "Parcel Bundler", "React", "Bootstrap 4"],
   "author": "Kory Schluter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kschluter/prb"
+  },
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^4.0.0",
