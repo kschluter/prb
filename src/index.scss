@@ -1,0 +1,12 @@
+@import './node_modules/bootstrap/scss/bootstrap';
+/*  The above line imports all* bootstrap classes however you can import only what you need, for example if you need only buttons: 
+    @import './node_modules/bootstrap/scss/functions';
+    @import './node_modules/bootstrap/scss/variables';
+    @import './node_modules/bootstrap/scss/mixins';
+    @import './node_modules/bootstrap/scss/buttons';
+    * notice you'll still need to import function variables and mixins
+*/
+
+body {
+  margin-top: 60px;
+}
