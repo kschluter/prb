@@ -7,7 +7,15 @@
     "dev": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html -d docs --public-url ./"
   },
-  "keywords": ["Seed", "Starter", "Parcel", "Parcel JS", "Parcel Bundler", "React", "Bootstrap 4"],
+  "keywords": [
+    "Seed",
+    "Starter",
+    "Parcel",
+    "Parcel JS",
+    "Parcel Bundler",
+    "React",
+    "Bootstrap 4"
+  ],
   "author": "Kory Schluter",
   "repository": {
     "type": "git",
@@ -22,9 +30,9 @@
     "react-dom": "^16.2.0"
   },
   "devDependencies": {
-    "babel-preset-env": "^1.6.1",
+    "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "parcel-bundler": "^1.5.0",
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.10.0",
+    "parcel-bundler": "^1.10.3"
   }
 }
